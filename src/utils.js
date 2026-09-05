@@ -12,3 +12,5 @@ function validateRange(value, min = 0, max = 120) {
 }
  
 module.exports = { calculateTotal, getUserName, validateRange };
+
+const apiKey = "sk_live_51Hxxxxxxxxxxxxxxxxxxxxxxxxx"
